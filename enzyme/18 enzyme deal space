@@ -1,0 +1,53 @@
+>Haplothrips chinensis
+30,BspMII,130,SwaI,154,EcoNI,325,VspI,30,AccIII,130,DraI,202,VspI,514,VspI,113,SpeI,136,Eco57I,219,SspI,561,SspI,130,AhaIII
+
+>Thrips physapus
+27,BspMII,112,EcoNI,189,BclI,508,AhaIII,27,AccIII,152,AhaIII,253,VspI,508,DraI,88,DraI,152,DraI,259,MfeI,538,Eco57I,88,AhaIII,
+
+>Thrips hawaiiensis
+22,DraI,98,AhaIII,244,VspI,529,VspI,22,AhaIII,122,EcoNI,267,BsmI,535,AhaIII,98,DraI,183,BclI,429,VspI,535,DraI,98,SwaI,192,VspI,471,BspMI,579,BclI
+
+>Rhipiphorothrips cruentatus
+243,XmnI,286,VspI,350,SciI,599,Eco57I,252,HindIII,348,XhoI,549,SspI,
+
+>Selenothrips rubrocinctus
+55,BclI,286,SspI,306,BsmI,443,AvrII,213,BsmI,291,BamHI,363,VspI,637,EcoNI
+
+>Rhipiphorothrips pulchellus
+135,NsiI,545,SspI,639,BspMII,639,AccIII,283,VspI,572,Eco57I,
+
+>Stenchaetothrips victoriensis
+55,BclI,286,SspI,306,BsmI,443,AvrII,213,BsmI,291,BamHI,363,VspI,637,EcoNI
+
+>Heliothrips haemorrhoidalis
+32,VspI,315,SspI,493,BclI,575,Alw44I,140,BspMI,429,MfeI,531,SpeI,575,ApaLI,234,HpaI,477,DraI,556,SnaBI,625,BstEII,248,BclI,477,AhaIII,
+
+>Thrips coloratus
+26,BclI,140,BsmI,506,BclI,594,AhaIII,77,SnaBI,209,VspI,573,SspI,594,DraI,106,BclI,213,SspI,594,SwaI,636,ScaI,123,MfeI,415,XmnI,
+
+>Thrips orientalis
+39,BclI,236,SstI,315,VspI,475,AhaIII,136,MfeI,236,SacI,469,VspI,519,BclI,234,EcoICRI,303,VspI,475,DraI,634,Eco31I
+
+>Thrips flavus
+49,AflII,209,VspI,433,ApaI,462,DraI,106,BclI,213,SspI,456,VspI,552,ScaI,123,MfeI,290,VspI,462,AhaIII,
+
+>Thrips andrewsi
+123,MfeI,213,SspI,398,BspMI,636,ScaI,142,NsiI,
+
+>Thrips tabaci
+13,VspI,223,Eam1105I,424,PflMI,540,SstI,40,BstD102I,229,BclI,538,Ecl136II,554,MfeI,76,AclI,341,EcoNI,538,EcoICRI,575,BsiI,80,Eco57I,388,BstEII,540,SacI,629,BglII,179,VspI,
+
+>Frankliniella occidentalis
+66,VspI,149,NsiI,442,DraI,469,DraI,95,DraI,220,SspI,463,AhaIII,513,BclI,95,AhaIII,405,BspMI,463,DraI,580,SspI,147,BsmI,442,AhaIII,469,AhaIII,
+
+>Scirtothrips dorsalis
+43,SspI,192,KpnI,417,Ecl136II,442,VspI,45,VspI,205,Alw44I,417,EcoICRI,451,Eco57I,92,BclI,205,ApaLI,419,SstI,492,BclI,188,Asp718I,276,VspI,419,SacI,534,BspMI,188,Acc65I,401,XmnI,
+
+>Frankliniella intonsa
+63,SnaBI,185,SpeI,492,BclI,612,BstEII,74,DraI,448,DraI,604,EcoNI,622,ScaI,74,AhaIII,448,AhaIII,
+
+>Thrips palmi
+109,MfeI,209,SstI,442,AhaIII,580,DraI,195,VspI,209,SacI,448,AhaIII,580,SwaI,199,SspI,393,BstXI,448,DraI,580,AhaIII,207,EcoICRI,442,DraI,492,BclI,622,ScaI,207,Ecl136II,
+
+>Megalurothrips usitatus
+12,BclI,199,SspI,442,DraI,465,BglII,19,EcoRI,279,VspI,442,AhaIII,492,BclI,45,VspI,294,BspMI,448,AhaIII,607,Eco31I,92,BclI,343,Eco57I,448,DraI,

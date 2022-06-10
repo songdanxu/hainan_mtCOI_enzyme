@@ -1,0 +1,21 @@
+Thrips_andrewsi=['NsiI', 'ScaI', 'BspMI', 'SspI', 'MfeI']
+Thrips_coloratus=['SnaBI', 'MfeI', 'BsmI', 'SwaI', 'XmnI', 'BclI', 'DraI', 'ScaI', 'VspI', 'SspI', 'AhaIII']
+Thrips_flavus=['MfeI', 'ApaI', 'ScaI', 'BclI', 'DraI', 'VspI', 'SspI', 'AhaIII', 'AflII']
+unique=list(set(Thrips_flavus)&set(Thrips_coloratus)&set(Thrips_andrewsi))
+print(unique)
+all=list(set(Thrips_flavus)|set(Thrips_coloratus)|set(Thrips_andrewsi))
+TcandTf=list(set(Thrips_coloratus)|set(Thrips_flavus))
+Ta=list(set(all).difference(set(TcandTf)))
+TaandTf=list(set(Thrips_andrewsi)|set(Thrips_flavus))
+Tc=list(set(all).difference(set(TaandTf)))
+TaandTc=list(set(Thrips_andrewsi)|set(Thrips_coloratus))
+Tf=list(set(all).difference(set(TaandTc)))
+print(f"Ta:{Ta}")
+print(f"Tc:{Tc}")
+print(f"Tf:{Tf}")
+unique_TaTc=list(set(Thrips_andrewsi)&set(Thrips_coloratus))
+unique_TaTf=list(set(Thrips_andrewsi)&set(Thrips_flavus))
+unique_TfTc=list(set(Thrips_flavus)&set(Thrips_coloratus))
+print(f"TaTf:{unique_TaTf}")
+print(f"TcTf:{unique_TfTc}")
+print(f"TaTc:{unique_TaTc}")

@@ -1,0 +1,26 @@
+Frankliniella_intonsa=['SpeI', 'AhaIII', 'EcoNI', 'BclI', 'SnaBI', 'ScaI', 'DraI', 'BstEII']
+Megalurothrips_usitatus=['AhaIII', 'Eco31I', 'BclI', 'BglII', 'SspI', 'Eco57I', 'DraI', 'EcoRI', 'BstEII', 'VspI', 'BspMI']
+Scirtothrips_dorsalis=['BclI', 'ApaLI', 'Alw44I', 'XmnI', 'VspI', 'KpnI', 'EcoICRI', 'SspI', 'SacI', 'Eco57I', 'Asp718I', 'SstI', 'Acc65I', 'BstEII', 'Ecl136II', 'BspMI']
+Thrips_palmi=['AhaIII', 'SwaI', 'MfeI', 'BclI', 'EcoICRI', 'SacI', 'SspI', 'SstI', 'VspI', 'DraI', 'BstEII', 'ScaI', 'BstXI', 'Ecl136II']
+# all=list(set(Frankliniella_intonsa)|set(Megalurothrips_usitatus)|set(Scirtothrips_dorsalis)|set(Thrips_palmi))
+# print(all)
+# MST=list(set(Megalurothrips_usitatus)|set(Scirtothrips_dorsalis)|set(Thrips_palmi))
+# F=list(set(all).difference(set(MST)))
+# FMS=list(set(Frankliniella_intonsa)|set(Megalurothrips_usitatus)|set(Scirtothrips_dorsalis))
+# T=list(set(all).difference(set(FMS)))
+# FST=list(set(Frankliniella_intonsa)|set(Scirtothrips_dorsalis)|set(Thrips_palmi))
+# M=list(set(all).difference(set(FST)))
+# FMT=list(set(Frankliniella_intonsa)|set(Megalurothrips_usitatus)|set(Thrips_palmi))
+# S=list(set(all).difference(set(FMT)))
+# print(F)
+# print(T)
+# print(M)
+# print(S)
+unique=list(set(Frankliniella_intonsa)&set(Scirtothrips_dorsalis)&set(Megalurothrips_usitatus)&set(Thrips_palmi))
+print(unique)
+SM=list(set(Scirtothrips_dorsalis)|set(Megalurothrips_usitatus))
+S=list(set(SM).difference(set(Megalurothrips_usitatus)))
+M=list(set(SM).difference(set(Scirtothrips_dorsalis)))
+print(SM)
+print(S)
+print(M)

@@ -1,0 +1,225 @@
+>Haplothrips chinensis
+Screened with 117 enzymes, 13 sites found
+AccIII  T/CCGGA  1:   30
+AhaIII  TTT/AAA  1:   130
+BspMII  T/CCGGA  1:   30
+DraI  TTT/AAA  1:   130
+Eco57I  CTGAAGNNNNNNNNNNNNNNNN/  1:   136
+EcoNI  CCTNN/NNNAGG  1:   154
+SpeI  A/CTAGT  1:   113
+SspI  AAT/ATT  2:   219, 561
+SwaI  ATTT/AAAT  1:   130
+VspI  AT/TAAT  3:   202, 325, 514
+
+>Thrips physapus
+Screened with 117 enzymes, 13 sites found
+AccIII  T/CCGGA  1:   27
+AhaIII  TTT/AAA  3:   88, 152, 508
+BclI  T/GATCA  1:   189
+BspMII  T/CCGGA  1:   27
+DraI  TTT/AAA  3:   88, 152, 508
+Eco57I  CTGAAGNNNNNNNNNNNNNNNN/  1:   538
+EcoNI  CCTNN/NNNAGG  1:   112
+MfeI  C/AATTG  1:   259
+VspI  AT/TAAT  1:   253
+
+>Thrips hawaiiensis
+Screened with 117 enzymes, 16 sites found
+AhaIII  TTT/AAA  3:   22, 98, 535
+BclI  T/GATCA  2:   183, 579
+BsmI  GAATGCN/  1:   267
+BspMI  ACCTGCNNNN/  1:   471
+DraI  TTT/AAA  3:   22, 98, 535
+EcoNI  CCTNN/NNNAGG  1:   122
+SwaI  ATTT/AAAT  1:   98
+VspI  AT/TAAT  4:   192, 244, 429, 529
+
+>Rhipiphorothrips cruentatus
+Screened with 117 enzymes, 7 sites found
+Eco57I  CTGAAGNNNNNNNNNNNNNNNN/  1:   599
+HindIII  A/AGCTT  1:   252
+SciI  CTC/GAG  1:   350
+SspI  AAT/ATT  1:   549
+VspI  AT/TAAT  1:   286
+XhoI  C/TCGAG  1:   348
+XmnI  GAANN/NNTTC  1:   243
+
+>Selenothrips rubrocinctus
+Screened with 117 enzymes, 8 sites found
+AvrII  C/CTAGG  1:   443
+BamHI  G/GATCC  1:   291
+BclI  T/GATCA  1:   55
+BsmI  GAATGCN/  2:   213, 306
+EcoNI  CCTNN/NNNAGG  1:   637
+SspI  AAT/ATT  1:   286
+VspI  AT/TAAT  1:   363
+
+>Rhipiphorothrips pulchellus
+Screened with 117 enzymes, 6 sites found
+AccIII  T/CCGGA  1:   639
+BspMII  T/CCGGA  1:   639
+Eco57I  CTGAAGNNNNNNNNNNNNNNNN/  1:   572
+NsiI  ATGCA/T  1:   135
+SspI  AAT/ATT  1:   545
+VspI  AT/TAAT  1:   283
+
+>Stenchaetothrips victoriensis
+Screened with 117 enzymes, 8 sites found
+AvrII  C/CTAGG  1:   443
+BamHI  G/GATCC  1:   291
+BclI  T/GATCA  1:   55
+BsmI  GAATGCN/  2:   213, 306
+EcoNI  CCTNN/NNNAGG  1:   637
+SspI  AAT/ATT  1:   286
+VspI  AT/TAAT  1:   363
+
+>Heliothrips haemorrhoidalis
+Screened with 117 enzymes, 14 sites found
+AhaIII  TTT/AAA  1:   477
+Alw44I  G/TGCAC  1:   575
+ApaLI  G/TGCAC  1:   575
+BclI  T/GATCA  2:   248, 493
+BspMI  ACCTGCNNNN/  1:   140
+BstEII  G/GTNACC  1:   625
+DraI  TTT/AAA  1:   477
+HpaI  GTT/AAC  1:   234
+MfeI  C/AATTG  1:   429
+SnaBI  TAC/GTA  1:   556
+SpeI  A/CTAGT  1:   531
+SspI  AAT/ATT  1:   315
+VspI  AT/TAAT  1:   32
+
+>Thrips coloratus
+Screened with 117 enzymes, 14 sites found
+AhaIII  TTT/AAA  1:   594
+BclI  T/GATCA  3:   26, 106, 506
+BsmI  GAATGCN/  1:   140
+DraI  TTT/AAA  1:   594
+MfeI  C/AATTG  1:   123
+ScaI  AGT/ACT  1:   636
+SnaBI  TAC/GTA  1:   77
+SspI  AAT/ATT  2:   213, 573
+SwaI  ATTT/AAAT  1:   594
+VspI  AT/TAAT  1:   209
+XmnI  GAANN/NNTTC  1:   415
+
+>Thrips orientalis
+Screened with 117 enzymes, 13 sites found
+AhaIII  TTT/AAA  1:   475
+BclI  T/GATCA  2:   39, 519
+DraI  TTT/AAA  1:   475
+Ecl136II  GAG/CTC  1:   234
+Eco31I  GGTCTCN/  1:   634
+EcoICRI  GAG/CTC  1:   234
+MfeI  C/AATTG  1:   136
+SacI  GAGCT/C  1:   236
+SstI  GAGCT/C  1:   236
+VspI  AT/TAAT  3:   303, 315, 469
+
+>Thrips flavus
+Screened with 117 enzymes, 11 sites found
+AflII  C/TTAAG  1:   49
+AhaIII  TTT/AAA  1:   462
+ApaI  GGGCC/C  1:   433
+BclI  T/GATCA  1:   106
+DraI  TTT/AAA  1:   462
+MfeI  C/AATTG  1:   123
+ScaI  AGT/ACT  1:   552
+SspI  AAT/ATT  1:   213
+VspI  AT/TAAT  3:   209, 290, 456
+
+>Thrips andrewsi
+Screened with 117 enzymes, 5 sites found
+BspMI  ACCTGCNNNN/  1:   398
+MfeI  C/AATTG  1:   123
+NsiI  ATGCA/T  1:   142
+ScaI  AGT/ACT  1:   636
+SspI  AAT/ATT  1:   213
+
+>Thrips tabaci
+Screened with 117 enzymes, 17 sites found
+AclI  AA/CGTT  1:   76
+BclI  T/GATCA  1:   229
+BglII  A/GATCT  1:   629
+BsiI  C/TCGTG  1:   575
+BstD102I  GAG/CGG  1:   40
+BstEII  G/GTNACC  1:   388
+Eam1105I  GACNNN/NNGTC  1:   223
+Ecl136II  GAG/CTC  1:   538
+Eco57I  CTGAAGNNNNNNNNNNNNNNNN/  1:   80
+EcoICRI  GAG/CTC  1:   538
+EcoNI  CCTNN/NNNAGG  1:   341
+MfeI  C/AATTG  1:   554
+PflMI  CCANNNN/NTGG  1:   424
+SacI  GAGCT/C  1:   540
+SstI  GAGCT/C  1:   540
+VspI  AT/TAAT  2:   13, 179
+
+>Frankliniella occidentalis
+Screened with 117 enzymes, 15 sites found
+AhaIII  TTT/AAA  4:   95, 442, 463, 469
+BclI  T/GATCA  1:   513
+BsmI  GAATGCN/  1:   147
+BspMI  ACCTGCNNNN/  1:   405
+DraI  TTT/AAA  4:   95, 442, 463, 469
+NsiI  ATGCA/T  1:   149
+SspI  AAT/ATT  2:   220, 580
+VspI  AT/TAAT  1:   66
+
+>Scirtothrips dorsalis
+Screened with 117 enzymes, 18 sites found
+Acc65I  G/GTACC  1:   188
+Alw44I  G/TGCAC  1:   205
+ApaLI  G/TGCAC  1:   205
+Asp718I  G/GTACC  1:   188
+BclI  T/GATCA  2:   92, 492
+BspMI  ACCTGCNNNN/  1:   534
+Ecl136II  GAG/CTC  1:   417
+Eco57I  CTGAAGNNNNNNNNNNNNNNNN/  1:   451
+EcoICRI  GAG/CTC  1:   417
+KpnI  GGTAC/C  1:   192
+SacI  GAGCT/C  1:   419
+SspI  AAT/ATT  1:   43
+SstI  GAGCT/C  1:   419
+VspI  AT/TAAT  3:   45, 276, 442
+XmnI  GAANN/NNTTC  1:   401
+
+>Frankliniella intonsa
+Screened with 117 enzymes, 10 sites found
+AhaIII  TTT/AAA  2:   74, 448
+BclI  T/GATCA  1:   492
+BstEII  G/GTNACC  1:   612
+DraI  TTT/AAA  2:   74, 448
+EcoNI  CCTNN/NNNAGG  1:   604
+ScaI  AGT/ACT  1:   622
+SnaBI  TAC/GTA  1:   63
+SpeI  A/CTAGT  1:   185
+
+>Thrips palmi
+Screened with 117 enzymes, 17 sites found
+AhaIII  TTT/AAA  3:   442, 448, 580
+BclI  T/GATCA  1:   492
+BstXI  CCANNNNN/NTGG  1:   393
+DraI  TTT/AAA  3:   442, 448, 580
+Ecl136II  GAG/CTC  1:   207
+EcoICRI  GAG/CTC  1:   207
+MfeI  C/AATTG  1:   109
+SacI  GAGCT/C  1:   209
+ScaI  AGT/ACT  1:   622
+SspI  AAT/ATT  1:   199
+SstI  GAGCT/C  1:   209
+SwaI  ATTT/AAAT  1:   580
+VspI  AT/TAAT  1:   195
+
+>Megalurothrips usitatus
+Screened with 117 enzymes, 15 sites found
+AhaIII  TTT/AAA  2:   442, 448
+BclI  T/GATCA  3:   12, 92, 492
+BglII  A/GATCT  1:   465
+BspMI  ACCTGCNNNN/  1:   294
+DraI  TTT/AAA  2:   442, 448
+Eco31I  GGTCTCN/  1:   607
+Eco57I  CTGAAGNNNNNNNNNNNNNNNN/  1:   343
+EcoRI  G/AATTC  1:   19
+SspI  AAT/ATT  1:   199
+VspI  AT/TAAT  2:   45, 279

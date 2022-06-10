@@ -1,0 +1,8 @@
+>Frankliniella_intonsa
+['SpeI', 'AhaIII', 'EcoNI', 'BclI', 'SnaBI', 'ScaI', 'DraI', 'BstEII']
+>Megalurothrips_usitatus
+['AhaIII', 'Eco31I', 'BclI', 'BglII', 'SspI', 'Eco57I', 'DraI', 'EcoRI', 'BstEII', 'VspI', 'BspMI']
+>Scirtothrips_dorsalis
+['BclI', 'ApaLI', 'Alw44I', 'XmnI', 'VspI', 'KpnI', 'EcoICRI', 'SspI', 'SacI', 'Eco57I', 'Asp718I', 'SstI', 'Acc65I', 'BstEII', 'Ecl136II', 'BspMI']
+>Thrips_palmi
+['AhaIII', 'SwaI', 'MfeI', 'BclI', 'EcoICRI', 'SacI', 'SspI', 'SstI', 'VspI', 'DraI', 'BstEII', 'ScaI', 'BstXI', 'Ecl136II']
